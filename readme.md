@@ -1,3 +1,7 @@
+Name:Mustafa Bostan
+School Number : 20000161
+Mail: 20000161@emu.edu.tr
+
 All users password: 123456
 
 Product editing is not on the admin home page.
