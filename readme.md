@@ -6,3 +6,4 @@ To edit a product, you can go to the productmanagement page in the Management ta
 To go to the admin page, you can press the Admin Page button when you log in to the admin user. 
 This button is visible only for admin users. Users who are not admins cannot go to the admin page.
 
+The GitHub link this project : https://github.com/mustafabostan/FDI.git
